@@ -3,7 +3,7 @@
 import Lottie from "lottie-react";
 import Link from "next/link";
 import React from "react";
-import animationData from "@/public/assets/data.json";
+import animationData from "../../public/assets/data.json";
 import { BiSearch } from "react-icons/bi";
 
 const Navbar = () => {
