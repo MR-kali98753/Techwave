@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from 'react';
-import Image from 'next/image';
+// import Image from 'next/image';
 
 const Ads = () => {
   const [isClient, setIsClient] = useState(false);
